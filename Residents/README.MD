@@ -1,0 +1,1 @@
+Create folders for each user in here.  The scanned copy of the receipts will be moved into the folders.

@@ -1,0 +1,1 @@
+Place scanned copies of the receipts in this folder before running the script.
